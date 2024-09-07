@@ -1,7 +1,7 @@
 h1 
 {
    color: black;
-   padding-left: 350px;
+   padding-left: 600px;
    font-style: inherit; 
    padding-bottom: 20px;
    background-color: gray;
@@ -9,7 +9,7 @@ h1
 h2
 {
     color: black;
-    padding-left: 370px;
+    padding-left: 625px;
     font-style: inherit; 
     font-weight: bolder;
     padding-bottom: 20px;  
@@ -20,7 +20,7 @@ p
     padding-left: 80px;
     font-weight: bold;
     background-color: gray;
-    word-spacing: 750px;
+    word-spacing: 1200px;
     font-size: 100%;
     
     
